@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Hugo da Cruz Sampaio<br>Sou um Desenvolvedor Frontend com habilidades em Designer UI/UX dedicado a criar experiências digitais que combinam design intuitivo com código eficiente. Meu foco está em desenvolver interfaces funcionais, responsivas e esteticamente agradáveis, utilizando as tecnologias mais recentes.<br><br>🚀 Tech Stack:<br>Linguagens: HTML, CSS, JavaScript, TypeScript<br><br>Frameworks/Bibliotecas: React, Next.js, TailwindCSS, Bootstrap<br><br>Gerenciamento de Estado: Redux<br><br>Ferramentas de Design: Figma<br><br>Versionamento e Pacotes: Git<br><br><br>
+👋 Hello! I'm Hugo da Cruz Sampaio<br>Sou um Desenvolvedor Frontend com habilidades em Designer UI/UX dedicado a criar experiências digitais que combinam design intuitivo com código eficiente. Meu foco está em desenvolver interfaces funcionais, responsivas e esteticamente agradáveis, utilizando as tecnologias mais recentes.<br><br>🚀 Tech Stack:<br>Linguagens: HTML, CSS, JavaScript, TypeScript<br>Frameworks/Bibliotecas: React, Next.js, TailwindCSS, Bootstrap<br>Gerenciamento de Estado: Redux<br>Ferramentas de Design: Figma<br>Versionamento e Pacotes: Git<br>
 
 
 ## 🌐 Socials:
